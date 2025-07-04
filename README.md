@@ -1,83 +1,90 @@
-📊 Market Sales Analytics Dashboard – Tableau + SQL
-Welcome to my interactive Market Sales Analytics project, where I transform raw SQL data into actionable insights using Tableau. This dashboard helps businesses understand market-wise performance, product trends, and customer behavior through clear, interactive visualizations.
+# 📊 **Market Sales Analytics Dashboard – Tableau + SQL**
 
-🧰 Tech Stack
-SQL – for data extraction, cleaning, and preprocessing
+Welcome to my interactive **Market Sales Analytics** project, where I transform raw **SQL** data into actionable insights using **Tableau**. This dashboard helps businesses understand **market-wise performance**, **product trends**, and **customer behavior** through clear, interactive visualizations.
 
-Tableau – for data visualization and dashboard interactivity
+---
 
-MySQL Workbench / DBeaver – to explore and restore the .sql database
+## 🧰 Tech Stack
 
-📌 Features
-✅ Interactive Dashboard Components
-🧩 Component	💡 Description
-Total Revenue & Sales Qty	Displays overall business performance at a glance
-Revenue by Markets	Highlights top-performing cities using bar charts
-Sales Quantity by Markets	Measures unit sales per region
-Revenue by Year	Shows monthly trends over multiple years
-Top 5 Customers	Visualizes highest revenue-generating clients
-Top 5 Products	Ranks the most sold and profitable products
+- **SQL** – for data extraction, cleaning, and preprocessing  
+- **Tableau** – for data visualization and dashboard interactivity  
+- **MySQL Workbench / DBeaver** – to explore and restore the `.sql` database  
 
-🗃️ Data Source
-The data is imported from a SQL database dump containing normalized tables like:
+---
 
-Markets
+## 📌 Features
 
-Products
+### ✅ Interactive Dashboard Components
 
-Customers
+| **Component**               | **Description**                                       |
+|----------------------------|--------------------------------------------------------|
+| Total Revenue & Sales Qty  | Displays overall business performance at a glance     |
+| Revenue by Markets         | Highlights top-performing cities using bar charts     |
+| Sales Quantity by Markets  | Measures unit sales per region                        |
+| Revenue by Year            | Shows monthly trends over multiple years              |
+| Top 5 Customers            | Visualizes highest revenue-generating clients         |
+| Top 5 Products             | Ranks the most sold and profitable products           |
 
-Transactions
+---
 
-Dates
+## 🗃️ Data Source
 
-📁 You can find the dump in the /data folder or click to download.
+The data is imported from a **SQL database dump** containing normalized tables like:
 
-🚀 How to Use
-Import the SQL Dump
+- `Markets`
+- `Products`
+- `Customers`
+- `Transactions`
+- `Dates`
 
-Open MySQL / DBeaver
 
-Restore the .sql file
+---
 
-Explore tables and data relationships
+## 🚀 How to Use
 
-Connect Tableau
+1. **Import the SQL Dump**  
+   - Open MySQL / DBeaver  
+   - Restore the `.sql` file  
+   - Explore tables and data relationships
 
-Connect Tableau to your database
+2. **Connect Tableau**  
+   - Connect Tableau to your database  
+   - Import tables or queries as needed  
+   - Build and design the dashboard (drag & drop filters, charts, KPIs)
 
-Import tables or queries as needed
+3. **Customize the Dashboard**  
+   - Add **filters** for year, city, product  
+   - Modify KPIs based on use-case (e.g., revenue vs. units sold)  
+   - Share as a **public link** or export as PDF
 
-Build and design the dashboard (drag & drop filters, charts, KPIs)
+---
 
-Customize the Dashboard
+## 💡 Use Cases
 
-Add filters for year, city, product
+- 📈 Track sales growth by region/year  
+- 🌍 Market penetration analysis  
+- 🎯 Customer targeting & segmentation  
+- 🛍️ Best-selling product trends  
+- 📉 Revenue fluctuation monitoring
 
-Modify KPIs based on use-case (e.g., revenue vs. units sold)
+---
 
-Share as a public link or export as PDF
+## 📷 Demo
 
-💡 Use Cases
-📈 Track Sales Growth by region/year
+🎥 *Coming soon: a video walkthrough explaining the dashboard layout and filters.*
 
-🌍 Market Penetration Analysis
 
-🎯 Customer Targeting & Segmentation
+---
 
-🛍️ Best-Selling Product Trends
+## 📬 Contact
 
-📉 Revenue Fluctuation Monitoring
+Let’s connect!  
+📧 **Email:** yourname@email.com  
+🔗 **LinkedIn:** [Prathamesh Panchal]([https://www.linkedin.com/in/prathamesh-panchal](https://www.linkedin.com/in/prathamesh-panchal-72129120a/))  
+🌐 **Location:** India | Open to remote opportunities  
 
-📷 Demo
-🎥 Coming soon: a video walkthrough explaining the dashboard layout and filters.
+---
 
-📬 Contact
-Let’s connect!
-📧 Email: yourname@email.com
-🔗 LinkedIn: Prathamesh Panchal
-🌐 Location: India | Open to remote opportunities
+## 🏷️ Tags
 
-🏷️ Tags
-#Tableau #SQL #DataAnalytics #DashboardDesign #BusinessIntelligence #InteractiveDashboard #DataVisualization #BIProject
-
+`#Tableau` `#SQL` `#DataAnalytics` `#DashboardDesign` `#BusinessIntelligence` `#InteractiveDashboard` `#DataVisualization` `#BIProject`
