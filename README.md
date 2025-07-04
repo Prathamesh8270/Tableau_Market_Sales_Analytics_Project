@@ -69,9 +69,9 @@ The data is imported from a **SQL database dump** containing normalized tables l
 
 ---
 
-## 📷 Demo
+## 📷 Dashboard Preview
 
-🎥 *Coming soon: a video walkthrough explaining the dashboard layout and filters.*
+![Dashboard Screenshot](Tableau Project.png)
 
 
 ---
@@ -80,7 +80,7 @@ The data is imported from a **SQL database dump** containing normalized tables l
 
 Let’s connect!  
 📧 **Email:** yourname@email.com  
-🔗 **LinkedIn:** [Prathamesh Panchal]([https://www.linkedin.com/in/prathamesh-panchal](https://www.linkedin.com/in/prathamesh-panchal-72129120a/))  
+🔗 **LinkedIn:** [Prathamesh Panchal]([https://www.linkedin.com/in/prathamesh-panchal](https://www.linkedin.com/in/prathamesh-panchal-72129120a/])  
 🌐 **Location:** India | Open to remote opportunities  
 
 ---
