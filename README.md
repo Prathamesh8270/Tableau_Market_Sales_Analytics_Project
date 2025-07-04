@@ -78,7 +78,7 @@ The data is imported from a **SQL database dump** containing normalized tables l
 ## 📬 Contact
 
 Let’s connect!  
-📧 **Email:** yourname@email.com  
+📧 **Email:** prathameshpanchal302@gmail.com 
 🔗 **LinkedIn:** [Prathamesh Panchal]([https://www.linkedin.com/in/prathamesh-panchal](https://www.linkedin.com/in/prathamesh-panchal-72129120a/])  
 🌐 **Location:** Mumbai, India 
 
