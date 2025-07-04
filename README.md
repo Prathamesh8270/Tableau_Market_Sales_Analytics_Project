@@ -71,8 +71,7 @@ The data is imported from a **SQL database dump** containing normalized tables l
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](Tableau Project.png)
-
+![Dashboard Screenshot](Tableau%20Project.png)
 
 ---
 
@@ -81,7 +80,7 @@ The data is imported from a **SQL database dump** containing normalized tables l
 Let’s connect!  
 📧 **Email:** yourname@email.com  
 🔗 **LinkedIn:** [Prathamesh Panchal]([https://www.linkedin.com/in/prathamesh-panchal](https://www.linkedin.com/in/prathamesh-panchal-72129120a/])  
-🌐 **Location:** India | Open to remote opportunities  
+🌐 **Location:** Mumbai, India 
 
 ---
 
